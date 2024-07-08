@@ -6,4 +6,11 @@ Para poder compilar este proyecto se necesita seguir las siguientes instruccione
 3. Utilizar el IDE Visual Studio Community 2022 para su correcta compilación.
 
 La Arquitectura del árbol es la siguiente:
+
+
+
+
+
+
+
 ![Arquitectura Ball* Tree](ballstar_arch.png)
